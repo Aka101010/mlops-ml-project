@@ -1,0 +1,5 @@
+outs:
+- md5: 8af011f3740617e49f65b3923a906276
+  size: 2351
+  hash: md5
+  path: logistic_baseline.pkl
